@@ -1,0 +1,46 @@
+﻿  CPU_info.cpp
+  CPU_test.cpp
+  	_Adding zlib library
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(96): warning C4091: 'static ': ignored on left of 'zlib::CZipper::EArchiveMode' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(109): warning C4091: 'static ': ignored on left of 'zlib::CZipper::ECompressionMode' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(137): warning C4091: 'static ': ignored on left of 'zlib::CZipper::EStrategy' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(146): warning C4091: 'static ': ignored on left of 'zlib::CZipper::EFlushMode' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU_test.cpp(207,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU_test.cpp(300,13): warning C4244: 'initializing': conversion from 'long double' to 'long', possible loss of data
+  GUI.cpp
+  gzip.cpp
+  	_Adding zlib library
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(96): warning C4091: 'static ': ignored on left of 'zlib::CZipper::EArchiveMode' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(109): warning C4091: 'static ': ignored on left of 'zlib::CZipper::ECompressionMode' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(137): warning C4091: 'static ': ignored on left of 'zlib::CZipper::EStrategy' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(146): warning C4091: 'static ': ignored on left of 'zlib::CZipper::EFlushMode' when no variable is declared
+  Main.cpp
+  	_Adding zlib library
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(96): warning C4091: 'static ': ignored on left of 'zlib::CZipper::EArchiveMode' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(109): warning C4091: 'static ': ignored on left of 'zlib::CZipper::ECompressionMode' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(137): warning C4091: 'static ': ignored on left of 'zlib::CZipper::EStrategy' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\gzip.h(146): warning C4091: 'static ': ignored on left of 'zlib::CZipper::EFlushMode' when no variable is declared
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\Main.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+  MEM_info.cpp
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\MEM_info.cpp(19,39): warning C4244: 'argument': conversion from 'DWORDLONG' to 'int', possible loss of data
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\MEM_info.cpp(37,39): warning C4244: 'argument': conversion from 'DWORDLONG' to 'int', possible loss of data
+  MEM_test.cpp
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\MEM_test.cpp(147,13): warning C4244: 'initializing': conversion from 'long double' to 'long', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 864 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+zlib.lib(adler32.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(adler32.obj)' or at 'D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\zlib.pdb'; linking object as if no debug info
+zlib.lib(crc32.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(crc32.obj)' or at 'D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\zlib.pdb'; linking object as if no debug info
+zlib.lib(deflate.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(deflate.obj)' or at 'D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\zlib.pdb'; linking object as if no debug info
+zlib.lib(gzio.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(gzio.obj)' or at 'D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\zlib.pdb'; linking object as if no debug info
+zlib.lib(infblock.obj) : warning LNK4099: PDB '' was not found with 'zlib.lib(infblock.obj)' or at ''; linking object as if no debug info
+zlib.lib(infcodes.obj) : warning LNK4099: PDB '' was not found with 'zlib.lib(infcodes.obj)' or at ''; linking object as if no debug info
+zlib.lib(inffast.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(inffast.obj)' or at 'D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\zlib.pdb'; linking object as if no debug info
+zlib.lib(inflate.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(inflate.obj)' or at 'D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\zlib.pdb'; linking object as if no debug info
+zlib.lib(inftrees.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(inftrees.obj)' or at 'D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\zlib.pdb'; linking object as if no debug info
+zlib.lib(infutil.obj) : warning LNK4099: PDB '' was not found with 'zlib.lib(infutil.obj)' or at ''; linking object as if no debug info
+zlib.lib(trees.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(trees.obj)' or at 'D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\zlib.pdb'; linking object as if no debug info
+zlib.lib(zutil.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(zutil.obj)' or at 'D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\zlib.pdb'; linking object as if no debug info
+  Benchmark.vcxproj -> D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Release\Benchmark.exe

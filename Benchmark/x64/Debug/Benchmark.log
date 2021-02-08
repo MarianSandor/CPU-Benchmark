@@ -1,0 +1,97 @@
+﻿  CPU_info.cpp
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(20,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(22,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(22,20): error C2146: syntax error: missing ';' before identifier 'esi'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(22,20): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(23,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(23,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(23,20): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(23,20): error C2065: 'eax': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(24,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(24,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(24,20): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(24,20): error C2065: 'ecx': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(25,13): error C2146: syntax error: missing ';' before identifier 'cpuid'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(25,13): error C2065: 'cpuid': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,20): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,20): error C2065: 'dword': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,26): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,26): error C2065: 'ptr': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,30): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,40): error C2065: 'eax': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,20): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,20): error C2065: 'dword': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,26): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,26): error C2065: 'ptr': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,30): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,40): error C2065: 'ebx': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,20): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,20): error C2065: 'dword': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,26): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,26): error C2065: 'ptr': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,30): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,40): error C2065: 'ecx': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,20): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,20): error C2065: 'dword': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,26): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,26): error C2065: 'ptr': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,30): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,41): error C2065: 'edx': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(30,9): error C2143: syntax error: missing ';' before '}'
+  main.cpp
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(20,9): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(22,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(22,20): error C2146: syntax error: missing ';' before identifier 'esi'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(22,20): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(23,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(23,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(23,20): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(23,20): error C2065: 'eax': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(24,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(24,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(24,20): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(24,20): error C2065: 'ecx': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(25,13): error C2146: syntax error: missing ';' before identifier 'cpuid'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(25,13): error C2065: 'cpuid': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,20): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,20): error C2065: 'dword': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,26): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,26): error C2065: 'ptr': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,30): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(26,40): error C2065: 'eax': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,20): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,20): error C2065: 'dword': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,26): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,26): error C2065: 'ptr': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,30): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(27,40): error C2065: 'ebx': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,20): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,20): error C2065: 'dword': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,26): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,26): error C2065: 'ptr': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,30): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(28,40): error C2065: 'ecx': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,13): error C2146: syntax error: missing ';' before identifier 'mov'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,13): error C2065: 'mov': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,20): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,20): error C2065: 'dword': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,26): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,26): error C2065: 'ptr': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,30): error C2065: 'esi': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(29,41): error C2065: 'edx': undeclared identifier
+D:\Workspace\An 3\An 3 Sem 1\SCS\Project\CPU Memry Benchmark\Benchmark\Benchmark\CPU.h(30,9): error C2143: syntax error: missing ';' before '}'
+  Generating Code...
